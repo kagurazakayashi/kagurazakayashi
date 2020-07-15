@@ -6,6 +6,7 @@
   - 🏎 另一款主题 [wpNyaruko-F](https://github.com/kagurazakayashi/wpNyaruko-F) + 📺 WP直播插件 [wpNyarukoLive](https://github.com/kagurazakayashi/wpNyarukoLive)
   - 🖼 大图新闻插件 [wpNyarukoTabloid](https://github.com/kagurazakayashi/wpNyarukoTabloid)
 - 🧩 WordPress 之外也可用的插件
+  - 🎞 背景动态图组、音乐歌词 [NyarukoPlayer.js](https://github.com/kagurazakayashi/NyarukoPlayer.js)
   - 🖼 网页横向滚动图片链接插件 [NyarukoShowcase.js](https://github.com/kagurazakayashi/NyarukoShowcase.js)
   - 🎞 视频缩略图滑行预览 [NyarukoPreview](https://github.com/kagurazakayashi/NyarukoPreview)
   - 📊 简易网页柱状图 [NyarukoChart](https://github.com/kagurazakayashi/NyarukoChart)
@@ -17,7 +18,7 @@
 - 🏠 个人网站项目
   - 🩱 个人网站开发页 [kagurazakayashi.github.com](https://github.com/kagurazakayashi/kagurazakayashi.github.com)
   - 🎡 雅诗的小世界 [yashi.moe](https://github.com/kagurazakayashi/yashi.moe) + 👒 新·雅诗的小世界 [KaguraMiyabi​ Project](https://github.com/KaguraMiyabi)
-  - ⛩ 概念版个人站 [NyarukoZone.js](https://github.com/kagurazakayashi/NyarukoZone.js)
+  - ⛩ 概念版个人站组件 [NyarukoZone.js](https://github.com/kagurazakayashi/NyarukoZone.js)
 - 📱 手机 APP
   - 🌼 云颜文字(iOS) [CloudEmoticon1iOS](https://github.com/cloud-emoticon/CloudEmoticon1iOS) + 🌼 云颜文字2(iOS) [CloudEmoticon2iOS](https://github.com/cloud-emoticon/CloudEmoticon2iOS)
   - 📷 百里挑一(Ingress用)(跨平台) [ChoosePhoto](https://github.com/kagurazakayashi/ChoosePhoto)
