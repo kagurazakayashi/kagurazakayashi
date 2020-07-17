@@ -1,5 +1,5 @@
 ## 你好，这里是 🌸神楽坂雅詩🌈 ！
-【 🔑 [PGP Key](https://github.com/kagurazakayashi/pubkey) | 🐦 [Twitter](https://twitter.com/kagurazakayashi) | 👁 [Weibo](https://weibo.com/KagurazakaYashi) 】
+【 🔑 [PGP Key](https://github.com/kagurazakayashi/pubkey) | 🐦 [Twitter](https://twitter.com/kagurazakayashi) | 👁 [Weibo](https://weibo.com/KagurazakaYashi) | 👗 [相册](https://github.com/komeiji-satori/Dress/blob/master/KagurazakaYashi/README.md) 】
 ### 我的 Github 分类目录（不包括远古和私有项目）
 - 🏰 WordPress 主题和插件
   - ⛱ 个人网站主题 [wpNyaruko-W](https://github.com/kagurazakayashi/wpNyaruko-W) + 🛒 个人代购站插件 [wpNyaruko-W-SGP](https://github.com/kagurazakayashi/wpNyaruko-W-SGP)
@@ -10,6 +10,8 @@
   - 🖼 网页横向滚动图片链接插件 [NyarukoShowcase.js](https://github.com/kagurazakayashi/NyarukoShowcase.js)
   - 🎞 视频缩略图滑行预览 [NyarukoPreview](https://github.com/kagurazakayashi/NyarukoPreview)
   - 📊 简易网页柱状图 [NyarukoChart](https://github.com/kagurazakayashi/NyarukoChart)
+- 🦋 Flutter 插件
+  - 📡 MXCHIP WiFi 硬件模组网络配置插件(Android/iOS)
 - 🎀 有趣的小东西
   - 📜 紫罗兰永恒花园文字转换 [EvergardenConverter](https://github.com/kagurazakayashi/EvergardenConverter)
   - 👗 Dress 女装项目浏览 [GitDressViewer](https://github.com/kagurazakayashi/GitDressViewer)
