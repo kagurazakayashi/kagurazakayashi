@@ -11,7 +11,7 @@
   - 🎞 视频缩略图滑行预览 [NyarukoPreview](https://github.com/kagurazakayashi/NyarukoPreview)
   - 📊 简易网页柱状图 [NyarukoChart](https://github.com/kagurazakayashi/NyarukoChart)
 - 🦋 Flutter 插件
-  - 📡 MXCHIP WiFi 硬件模组网络配置插件(Android/iOS)
+  - 📡 MXCHIP WiFi 硬件模组网络配置插件(Android/iOS) [EasylinkFlutter](https://github.com/kagurazakayashi/EasylinkFlutter)
 - 🎀 有趣的小东西
   - 📜 紫罗兰永恒花园文字转换 [EvergardenConverter](https://github.com/kagurazakayashi/EvergardenConverter)
   - 👗 Dress 女装项目浏览 [GitDressViewer](https://github.com/kagurazakayashi/GitDressViewer)
@@ -42,6 +42,7 @@
   - 😃 GO 简易 MQTT 聊天 [NyarukoMQTTChat](https://github.com/kagurazakayashi/NyarukoMQTTChat)
   - 📁 简易 PHP 文件浏览器 [NyarukoFile](https://github.com/kagurazakayashi/NyarukoFile) + 🗃️ 上传共享 [NyarukoDisk](https://github.com/kagurazakayashi/NyarukoDisk)
 - 🎮 游戏周边
+  - 👸 公主连结自动重新挑战工具 [PCRe:Battle](https://github.com/kagurazakayashi/PCRe-Battle)
   - 👗 奇迹暖暖细胞词库生成 [nikki3words](https://github.com/kagurazakayashi/nikki3words)
   - 👗 奇迹暖暖 iOS 版截图 logo 去除 APP [nikki3rmui](https://github.com/kagurazakayashi/nikki3rmui)
   - 🏕 Minecraft超平坦世界生成命令辅助 [yashiSuperflatPresets](https://github.com/kagurazakayashi/yashiSuperflatPresets)
