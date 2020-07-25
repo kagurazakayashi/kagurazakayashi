@@ -1,6 +1,7 @@
 ## 你好，这里是 🌸神楽坂雅詩🌈 ！
-【 🔑 [PGP Key](https://github.com/kagurazakayashi/pubkey) | 🐦 [Twitter](https://twitter.com/kagurazakayashi) | 👁 [Weibo](https://weibo.com/KagurazakaYashi) | 👗 [相册](https://github.com/komeiji-satori/Dress/blob/master/KagurazakaYashi/README.md) 】
-### 我的 Github 分类目录（不包括远古和私有项目）
+【 🔑 [PGP Key](https://github.com/kagurazakayashi/pubkey) | 🐦 [Twitter](https://twitter.com/kagurazakayashi) | 👁 [微博](https://weibo.com/KagurazakaYashi) | 👗 [相册](https://github.com/komeiji-satori/Dress/blob/master/KagurazakaYashi/README.md) | 📔[留言](https://gist.github.com/kagurazakayashi/c88f9670c9b00ea335cffdddd6bcacdf) | 💝[捐助](https://afdian.net/@yashi) 】
+### 我的 Github 分类目录
+不包括过于远古的和私有的仓库。
 - 🏰 WordPress 主题和插件
   - ⛱ 个人网站主题 [wpNyaruko-W](https://github.com/kagurazakayashi/wpNyaruko-W) + 🛒 个人代购站插件 [wpNyaruko-W-SGP](https://github.com/kagurazakayashi/wpNyaruko-W-SGP)
   - 🏎 另一款主题 [wpNyaruko-F](https://github.com/kagurazakayashi/wpNyaruko-F) + 📺 WP直播插件 [wpNyarukoLive](https://github.com/kagurazakayashi/wpNyarukoLive)
@@ -51,19 +52,3 @@
   - 🔫 查找推特可疑粉丝 [TwitterRobotCleaning](https://github.com/kagurazakayashi/TwitterRobotCleaning)
   - 📝 批量清除非英文文件名 [filenameencoder](https://github.com/kagurazakayashi/filenameencoder)
 - 📔 自用代码备忘录 [CodeNotebook](https://github.com/kagurazakayashi/CodeNotebook)
-
-
-<!--
-**kagurazakayashi/kagurazakayashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
