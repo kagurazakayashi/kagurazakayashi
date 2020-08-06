@@ -1,7 +1,7 @@
 ## 你好，这里是 🌸神楽坂雅詩🌈 ！
 【 🔑 [PGP Key](https://github.com/kagurazakayashi/pubkey) | 🐦 [Twitter](https://twitter.com/kagurazakayashi) | 👁 [微博](https://weibo.com/KagurazakaYashi) | 👗 [相册](https://github.com/komeiji-satori/Dress/blob/master/KagurazakaYashi/README.md) | 📔[留言](https://gist.github.com/kagurazakayashi/c88f9670c9b00ea335cffdddd6bcacdf) | 💝[捐助](https://afdian.net/@yashi) 】
 ### 我的 Github 分类目录
-不包括过于远古的和私有的仓库。
+不包括过于远古的和私有的仓库，斜体为最近正在进行中的内容。
 - 🏰 WordPress 主题和插件
   - ⛱ 个人网站主题 [wpNyaruko-W](https://github.com/kagurazakayashi/wpNyaruko-W) + 🛒 个人代购站插件 [wpNyaruko-W-SGP](https://github.com/kagurazakayashi/wpNyaruko-W-SGP)
   - 🏎 另一款主题 [wpNyaruko-F](https://github.com/kagurazakayashi/wpNyaruko-F) + 📺 WP直播插件 [wpNyarukoLive](https://github.com/kagurazakayashi/wpNyarukoLive)
@@ -11,6 +11,10 @@
   - 🖼 网页横向滚动图片链接插件 [NyarukoShowcase.js](https://github.com/kagurazakayashi/NyarukoShowcase.js)
   - 🎞 视频缩略图滑行预览 [NyarukoPreview](https://github.com/kagurazakayashi/NyarukoPreview)
   - 📊 简易网页柱状图 [NyarukoChart](https://github.com/kagurazakayashi/NyarukoChart)
+- 🎫 基础程序
+  - 🔑 *PHP 用户登录 [NyarukoLogin](https://github.com/kagurazakayashi/NyarukoLogin) + 👯‍♀️ 社交插件 [NyarukoSNS](https://github.com/kagurazakayashi/NyarukoSNS)*
+  - 😃 GO 简易 MQTT 聊天 [NyarukoMQTTChat](https://github.com/kagurazakayashi/NyarukoMQTTChat)
+  - 📁 简易 PHP 文件浏览器 [NyarukoFile](https://github.com/kagurazakayashi/NyarukoFile) + 🗃️ 上传共享 [NyarukoDisk](https://github.com/kagurazakayashi/NyarukoDisk)
 - 🦋 Flutter 插件
   - 📡 MXCHIP WiFi 硬件模组网络配置插件(Android/iOS) [EasylinkFlutter](https://github.com/kagurazakayashi/EasylinkFlutter)
 - 🎀 有趣的小东西
@@ -38,10 +42,6 @@
   - 📂 文件列表生成工具(跨平台) [yaListOfFiles](https://github.com/kagurazakayashi/yaListOfFiles)
   - 🔐 密码生成器(macOS) [YashiPasswordGenerator](https://github.com/kagurazakayashi/YashiPasswordGenerator)
   - 🏺 抽签程序(macOS) [XiaoXiaoBallot](https://github.com/kagurazakayashi/XiaoXiaoBallot)
-- 🎫 基础程序
-  - 🔑 PHP 用户登录 [NyarukoLogin](https://github.com/kagurazakayashi/NyarukoLogin) + 👯‍♀️ 社交插件 [NyarukoSNS](https://github.com/kagurazakayashi/NyarukoSNS)
-  - 😃 GO 简易 MQTT 聊天 [NyarukoMQTTChat](https://github.com/kagurazakayashi/NyarukoMQTTChat)
-  - 📁 简易 PHP 文件浏览器 [NyarukoFile](https://github.com/kagurazakayashi/NyarukoFile) + 🗃️ 上传共享 [NyarukoDisk](https://github.com/kagurazakayashi/NyarukoDisk)
 - 🎮 游戏周边
   - 👸 公主连结自动重新挑战工具 [PCRe:Battle](https://github.com/kagurazakayashi/PCRe-Battle)
   - 👗 奇迹暖暖细胞词库生成 [nikki3words](https://github.com/kagurazakayashi/nikki3words)
