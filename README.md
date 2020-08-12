@@ -1,6 +1,11 @@
 ## 你好，这里是 🌸神楽坂雅詩🌈 ！
+
 【 🔑 [PGP Key](https://github.com/kagurazakayashi/pubkey) | 🐦 [Twitter](https://twitter.com/kagurazakayashi) | 👁 [微博](https://weibo.com/KagurazakaYashi) | 👗 [相册](https://github.com/komeiji-satori/Dress/blob/master/KagurazakaYashi/README.md) | 📔 [留言](https://gist.github.com/kagurazakayashi/c88f9670c9b00ea335cffdddd6bcacdf) | 💝 [捐助](https://afdian.net/@yashi) | 🗳 [提问箱](https://www.popiask.cn/yashimoe) 】
+
+[Our will cannot be denied. Soon the virus'll declare "died".](https://stats.foldingathome.org/donor/KagurazakaYashi)
+
 ### 我的 Github 分类目录
+
 不包括过于远古的和私有的仓库，斜体为最近正在进行中的内容。
 - 🏰 WordPress 主题和插件
   - ⛱ 个人网站主题 [wpNyaruko-W](https://github.com/kagurazakayashi/wpNyaruko-W) + 🛒 个人代购站插件 [wpNyaruko-W-SGP](https://github.com/kagurazakayashi/wpNyaruko-W-SGP)
