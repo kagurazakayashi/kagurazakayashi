@@ -2,6 +2,8 @@
 
 【 🔑 [PGP Key](https://github.com/kagurazakayashi/pubkey) | 🐦 [Twitter](https://twitter.com/kagurazakayashi) | 👁 [微博](https://weibo.com/KagurazakaYashi) | 👗 [相册](https://github.com/komeiji-satori/Dress/blob/master/KagurazakaYashi/README.md) | 📔 [留言](https://gist.github.com/kagurazakayashi/c88f9670c9b00ea335cffdddd6bcacdf) | 💝 [捐助](https://afdian.net/@yashi) | 🗳 [提问箱](https://www.popiask.cn/yashimoe) 】
 
+PHP · JavaScript · Objective-C · Swift · Dart · Go · Python · C# · Ruby · Java · Visual Basic · WTCD
+
 [Our will cannot be denied. Soon the virus'll declare "died".](https://stats.foldingathome.org/donor/KagurazakaYashi)
 
 ### 我的 Github 分类目录
