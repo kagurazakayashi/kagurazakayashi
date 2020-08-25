@@ -1,8 +1,27 @@
 ## 你好，这里是 🌸神楽坂雅詩🌈 ！
 
-【 🔑 [PGP Key](https://github.com/kagurazakayashi/pubkey) | 🐦 [Twitter](https://twitter.com/kagurazakayashi) | 👁 [微博](https://weibo.com/KagurazakaYashi) | 👗 [相册](https://github.com/komeiji-satori/Dress/blob/master/KagurazakaYashi/README.md) | 📔 [留言](https://gist.github.com/kagurazakayashi/c88f9670c9b00ea335cffdddd6bcacdf) | 💝 [捐助](https://afdian.net/@yashi) | 🗳 [提问箱](https://www.popiask.cn/yashimoe) 】
+[![PGP Key](https://img.shields.io/badge/-PGPkey-0093DD?logo=GNU%20Privacy%20Guard&labelColor=0093DD&logoColor=fff)](https://github.com/kagurazakayashi/pubkey)
+[![微博](https://img.shields.io/badge/-微博-E6162D?logo=Sina%20Weibo&labelColor=E6162D&logoColor=fff)](https://weibo.com/KagurazakaYashi)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&labelColor=1DA1F2&logoColor=fff)](https://twitter.com/kagurazakayashi)
+[![相册](https://img.shields.io/badge/-相册-E4405F?logo=Instagram&labelColor=E4405F&logoColor=fff)](https://github.com/komeiji-satori/Dress/blob/master/KagurazakaYashi/README.md)
+[![留言](https://img.shields.io/badge/-留言-7719AA?logo=Microsoft%20OneNote&labelColor=7719AA&logoColor=fff)](https://gist.github.com/kagurazakayashi/c88f9670c9b00ea335cffdddd6bcacdf)
+[![提问箱](https://img.shields.io/badge/-？%20提问箱-FF4088)](https://www.popiask.cn/yashimoe)
+[![Donate 捐助](https://img.shields.io/badge/-Donate%20捐助-F7931A?logo=Bitcoin&labelColor=F7931A&logoColor=fff)](https://afdian.net/@yashi)
 
-PHP · JavaScript · Objective-C · Swift · Dart · Go · Python · C# · Ruby · Java · Visual Basic · WTCD
+![Kagurazakayashi's github stats](https://github-readme-stats.vercel.app/api?username=kagurazakayashi&show_icons=true&title_color=FF1493&icon_color=FF00FF&text_color=FF69B4&count_private=true&bg_color=0,ADD8E6,FFC0CB,FFF,FFC0CB,ADD8E6&include_all_commits=true)
+
+![PHP](https://img.shields.io/badge/-PHP-777bb3?style=flat-square&logo=php&labelColor=777bb3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
+![Objective-C](https://img.shields.io/badge/-ObjectiveC-888?style=flat-square)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=Swift&labelColor=FA7343&logoColor=fff)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&labelColor=02569B&logoColor=fff)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&labelColor=00ADD8&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&labelColor=3776AB&logoColor=fff)
+![C%20Sharp](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C%20Sharp&labelColor=239120&logoColor=fff)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&labelColor=CC342D&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&labelColor=007396&logoColor=fff)
+![WTCD](https://img.shields.io/badge/-WTCD-667881?style=flat-square)
+![VB](https://img.shields.io/badge/-VB-31A8FF?style=flat-square)
 
 [Our will cannot be denied. Soon the virus'll declare "died".](https://stats.foldingathome.org/donor/KagurazakaYashi)
 
