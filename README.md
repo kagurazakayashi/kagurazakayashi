@@ -1,14 +1,16 @@
 ## 你好，这里是 🌸神楽坂雅詩🌈 ！
 
+![Kagurazakayashi's github stats](https://github-readme-stats.vercel.app/api?username=kagurazakayashi&show_icons=true&title_color=FF1493&icon_color=FF00FF&text_color=FF69B4&count_private=true&bg_color=0,ADD8E6,FFC0CB,FFF,FFC0CB,ADD8E6&include_all_commits=true)
+
 [![PGP Key](https://img.shields.io/badge/-PGPkey-0093DD?logo=GNU%20Privacy%20Guard&labelColor=0093DD&logoColor=fff)](https://github.com/kagurazakayashi/pubkey)
-[![微博](https://img.shields.io/badge/-微博-E6162D?logo=Sina%20Weibo&labelColor=E6162D&logoColor=fff)](https://weibo.com/KagurazakaYashi)
+[![Keybase](https://img.shields.io/badge/-Keybase-33A0FF?logo=Keybase&labelColor=33A0FF&logoColor=fff)](https://keybase.io/kagurazakayashi)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&labelColor=1DA1F2&logoColor=fff)](https://twitter.com/kagurazakayashi)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=Telegram&labelColor=2CA5E0&logoColor=fff)](https://t.me/yashichannel)
+[![微博](https://img.shields.io/badge/-微博-E6162D?logo=Sina%20Weibo&labelColor=E6162D&logoColor=fff)](https://weibo.com/KagurazakaYashi)
 [![相册](https://img.shields.io/badge/-相册-E4405F?logo=Instagram&labelColor=E4405F&logoColor=fff)](https://github.com/komeiji-satori/Dress/blob/master/KagurazakaYashi/README.md)
 [![留言](https://img.shields.io/badge/-留言-7719AA?logo=Microsoft%20OneNote&labelColor=7719AA&logoColor=fff)](https://gist.github.com/kagurazakayashi/c88f9670c9b00ea335cffdddd6bcacdf)
 [![提问箱](https://img.shields.io/badge/-？%20提问箱-FF4088)](https://www.popiask.cn/yashimoe)
 [![Donate 捐助](https://img.shields.io/badge/-Donate%20捐助-F7931A?logo=Bitcoin&labelColor=F7931A&logoColor=fff)](https://afdian.net/@yashi)
-
-![Kagurazakayashi's github stats](https://github-readme-stats.vercel.app/api?username=kagurazakayashi&show_icons=true&title_color=FF1493&icon_color=FF00FF&text_color=FF69B4&count_private=true&bg_color=0,ADD8E6,FFC0CB,FFF,FFC0CB,ADD8E6&include_all_commits=true)
 
 ![PHP](https://img.shields.io/badge/-PHP-777bb3?style=flat-square&logo=php&labelColor=777bb3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
