@@ -30,6 +30,7 @@
 ### 我的 Github 分类目录
 
 不包括过于远古的和私有的仓库，斜体为最近正在进行中的内容。
+- 📔 自用代码备忘录 [CodeNotebook](https://github.com/kagurazakayashi/CodeNotebook)
 - 🏰 WordPress 主题和插件
   - ⛱ 个人网站主题 [wpNyaruko-W](https://github.com/kagurazakayashi/wpNyaruko-W) + 🛒 个人代购站插件 [wpNyaruko-W-SGP](https://github.com/kagurazakayashi/wpNyaruko-W-SGP)
   - 🏎 另一款主题 [wpNyaruko-F](https://github.com/kagurazakayashi/wpNyaruko-F) + 📺 WP直播插件 [wpNyarukoLive](https://github.com/kagurazakayashi/wpNyarukoLive)
@@ -79,4 +80,9 @@
 - 📜 小脚本
   - 🔫 查找推特可疑粉丝 [TwitterRobotCleaning](https://github.com/kagurazakayashi/TwitterRobotCleaning)
   - 📝 批量清除非英文文件名 [filenameencoder](https://github.com/kagurazakayashi/filenameencoder)
-- 📔 自用代码备忘录 [CodeNotebook](https://github.com/kagurazakayashi/CodeNotebook)
+
+```
+git rm -r *
+git commit -m "Fixed all bugs"
+git push
+```
