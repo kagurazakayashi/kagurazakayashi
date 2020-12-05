@@ -61,6 +61,7 @@
   - ⛩ 喵窩助手(iOS) [NyaaCatAPP_iOS](https://github.com/kagurazakayashi/NyaaCatAPP_iOS)
   - 👻 定位测试客户端(iOS) [FindMyParentsiOS](https://github.com/kagurazakayashi/FindMyParentsiOS)
 - 🔧 电脑 APP
+  - 👁 *在后台悄悄截图并加密上传到服务器(Windows) [NyarukoEye](https://github.com/kagurazakayashi/NyarukoEye)*
   - 🖥 根据运行状况智能关机软件 [YashiAutoShutOff](https://github.com/kagurazakayashi/YashiAutoShutOff)
   - ⏲ 直播用计时器(跨平台) [NyarukoTools_Timer](https://github.com/kagurazakayashi/NyarukoTools_Timer)
   - 🔐 用谷歌验证器锁定屏幕(Windows) [MFAScreenLock](https://github.com/kagurazakayashi/MFAScreenLock)
