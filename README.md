@@ -25,6 +25,8 @@
 ![WTCD](https://img.shields.io/badge/-WTCD-667881?style=flat-square)
 ![VB](https://img.shields.io/badge/-VB-31A8FF?style=flat-square)
 
+**公告栏** | [关于 Dress 项目的情况说明](https://gist.github.com/kagurazakayashi/44fa4ae106fa0e00b4172de7de8e69c6) | [关于私聊无法得到回复的说明](https://gist.github.com/kagurazakayashi/ae03a3b4fdb84be760da68d0c9352824)
+
 ### 我的 Github 分类目录
 
 不包括过于远古的和私有的仓库，打勾的是**正在维护**（包括开发完正在维护和正在开发中）的内容，没打勾的是已经**弃坑**（包括已经完成但不再维护和半途而废）的内容。
