@@ -12,19 +12,6 @@
 [![提问箱](https://img.shields.io/badge/-？%20提问箱-FF4088)](https://www.popiask.cn/yashimoe)
 [![Donate 捐助](https://img.shields.io/badge/-Donate%20捐助-F7931A?logo=Bitcoin&labelColor=F7931A&logoColor=fff)](https://afdian.net/@yashi)
 
-![PHP](https://img.shields.io/badge/-PHP-777bb3?style=flat-square&logo=php&labelColor=777bb3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
-![Objective-C](https://img.shields.io/badge/-ObjectiveC-888?style=flat-square)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=Swift&labelColor=FA7343&logoColor=fff)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&labelColor=02569B&logoColor=fff)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&labelColor=00ADD8&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&labelColor=3776AB&logoColor=fff)
-![C%20Sharp](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C%20Sharp&labelColor=239120&logoColor=fff)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&labelColor=CC342D&logoColor=fff)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&labelColor=007396&logoColor=fff)
-![WTCD](https://img.shields.io/badge/-WTCD-667881?style=flat-square)
-![VB](https://img.shields.io/badge/-VB-31A8FF?style=flat-square)
-
 📜 **公告栏** | 👗 [关于 Dress 项目的情况说明](https://gist.github.com/kagurazakayashi/44fa4ae106fa0e00b4172de7de8e69c6) | 💬 [关于私聊无法得到回复的说明](https://gist.github.com/kagurazakayashi/ae03a3b4fdb84be760da68d0c9352824) | 🌸 [关于「神楽坂」的解释](https://www.matataki.io/p/5448)
 
 ![Kagurazakayashi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kagurazakayashi&layout=compact&theme=material-palenight)
@@ -32,7 +19,9 @@
 ### 我的 Github 分类目录
 
 不包括过于远古的和私有的仓库，打勾的是**正在维护**（包括开发完正在维护和正在开发中）的内容，没打勾的是已经**弃坑**（包括已经完成但不再维护和半途而废）的内容。
-- [x] 📔 自用代码备忘录 [CodeNotebook](https://github.com/kagurazakayashi/CodeNotebook)
+- 📔 代码备忘录
+  - [x] 📔 自用代码备忘录 [CodeNotebook](https://github.com/kagurazakayashi/CodeNotebook)
+  - [x] 📟 玩树莓派时写的一些脚本 [pi](https://github.com/kagurazakayashi/pi)
 - 🏰 WordPress 主题和插件
   - [ ] ⛱ 个人网站主题 [wpNyaruko-W](https://github.com/kagurazakayashi/wpNyaruko-W) + 🛒 个人代购站插件 [wpNyaruko-W-SGP](https://github.com/kagurazakayashi/wpNyaruko-W-SGP)
   - [ ] 🏎 另一款主题 [wpNyaruko-F](https://github.com/kagurazakayashi/wpNyaruko-F) + 📺 WP直播插件 [wpNyarukoLive](https://github.com/kagurazakayashi/wpNyarukoLive)
@@ -47,24 +36,25 @@
   - [x] 📋 做 TS 时自己共用的代码 [YQ](https://github.com/kagurazakayashi/yq)
   - [ ] 😃 GO 简易 MQTT 聊天 [NyarukoMQTTChat](https://github.com/kagurazakayashi/NyarukoMQTTChat)
   - [ ] 📁 简易 PHP 文件浏览器 [NyarukoFile](https://github.com/kagurazakayashi/NyarukoFile) + 🗃️ 上传共享 [NyarukoDisk](https://github.com/kagurazakayashi/NyarukoDisk)
-- [ ] 🦋 Flutter 插件
+- 🦋 Flutter 插件
   - [ ] 📡 MXCHIP WiFi 硬件模组网络配置插件(Android/iOS) [EasylinkFlutter](https://github.com/kagurazakayashi/EasylinkFlutter)
-- [ ] 🎀 有趣的小东西
+  - [x] 💬 基于 iOS 和 Android 原生库的 WebSocket 插件 [yaWebSocket](https://github.com/kagurazakayashi/yaWebSocket)
+- 🎀 有趣的小东西
   - [ ] 📜 紫罗兰永恒花园文字转换 [EvergardenConverter](https://github.com/kagurazakayashi/EvergardenConverter)
   - [ ] 👗 Dress 女装项目浏览 [GitDressViewer](https://github.com/kagurazakayashi/GitDressViewer)
   - [ ] 🐱 在网页中朝鼠标奔跑的猫 [wNeko](https://github.com/kagurazakayashi/wNeko)
   - [ ] 👍 编写安全并且可靠的程序的最佳解决方案 [nocode](https://github.com/kagurazakayashi/nocode)
-- [ ] 🏠 个人网站项目
+- 🏠 个人网站项目
   - [ ] 🩱 个人网站开发页 [kagurazakayashi.github.com](https://github.com/kagurazakayashi/kagurazakayashi.github.com)
   - [ ] 🎡 雅诗的小世界 [yashi.moe](https://github.com/kagurazakayashi/yashi.moe)
   - [x] 👒 新·雅诗的小世界 [KaguraMiyabi​ Project](https://github.com/KaguraMiyabi)
   - [ ] ⛩ 概念版个人站组件 [NyarukoZone.js](https://github.com/kagurazakayashi/NyarukoZone.js)
-- [ ] 📱 手机 APP
+- 📱 手机 APP
   - [ ] 🌼 云颜文字(iOS) [CloudEmoticon1iOS](https://github.com/cloud-emoticon/CloudEmoticon1iOS) + 🌼 云颜文字2(iOS) [CloudEmoticon2iOS](https://github.com/cloud-emoticon/CloudEmoticon2iOS)
   - [ ] 📷 百里挑一(Ingress用)(跨平台) [ChoosePhoto](https://github.com/kagurazakayashi/ChoosePhoto)
   - [ ] ⛩ 喵窩助手(iOS) [NyaaCatAPP_iOS](https://github.com/kagurazakayashi/NyaaCatAPP_iOS)
   - [ ] 👻 定位测试客户端(iOS) [FindMyParentsiOS](https://github.com/kagurazakayashi/FindMyParentsiOS)
-- [ ] 🔧 电脑 APP
+- 🔧 电脑 APP
   - [x] 🔩 提供一些用于批处理命令的微型小工具(Windows) [NyarukoMiniTools](https://github.com/kagurazakayashi/NyarukoMiniTools)
   - [ ] 👁 在后台悄悄截图并加密上传到服务器(Windows) [NyarukoEye](https://github.com/kagurazakayashi/NyarukoEye)
   - [ ] 🖥 根据运行状况智能关机软件 [YashiAutoShutOff](https://github.com/kagurazakayashi/YashiAutoShutOff)
@@ -77,13 +67,13 @@
   - [ ] 📂 文件列表生成工具(跨平台) [yaListOfFiles](https://github.com/kagurazakayashi/yaListOfFiles)
   - [ ] 🔐 密码生成器(macOS) [YashiPasswordGenerator](https://github.com/kagurazakayashi/YashiPasswordGenerator)
   - [ ] 🏺 抽签程序(macOS) [XiaoXiaoBallot](https://github.com/kagurazakayashi/XiaoXiaoBallot)
-- [ ] 🎮 游戏周边
+- 🎮 游戏周边
   - [ ] 👸 公主连结自动重新挑战工具 [PCRe:Battle](https://github.com/kagurazakayashi/PCRe-Battle)
   - [ ] 👗 奇迹暖暖细胞词库生成 [nikki3words](https://github.com/kagurazakayashi/nikki3words)
   - [ ] 👗 奇迹暖暖 iOS 版截图 logo 去除 APP [nikki3rmui](https://github.com/kagurazakayashi/nikki3rmui)
   - [ ] 🏕 Minecraft超平坦世界生成命令辅助 [yashiSuperflatPresets](https://github.com/kagurazakayashi/yashiSuperflatPresets)
   - [ ] ⏲ LoveLive SIF 疲劳恢复计时器(iOS6) [XiaoXiaoLPreminder](https://github.com/kagurazakayashi/XiaoXiaoLPreminder)
-- [ ] 📜 小脚本
+- 📜 小脚本
   - [ ] 🔫 查找推特可疑粉丝 [TwitterRobotCleaning](https://github.com/kagurazakayashi/TwitterRobotCleaning)
   - [ ] 📝 批量清除非英文文件名 [filenameencoder](https://github.com/kagurazakayashi/filenameencoder)
 
