@@ -21,7 +21,7 @@
 不包括过于远古的和私有的仓库，打勾的是**正在维护**（包括开发完正在维护和正在开发中）的内容，没打勾的是已经**弃坑**（包括已经完成但不再维护和半途而废）的内容。
 - 📔 代码备忘录
   - [x] 📔 自用代码备忘录 [CodeNotebook](https://github.com/kagurazakayashi/CodeNotebook)
-  - [x] 📟 玩树莓派时写的一些脚本 [pi](https://github.com/kagurazakayashi/pi)
+  - [ ] 📟 玩树莓派时写的一些脚本 [pi](https://github.com/kagurazakayashi/pi)
 - 🏰 WordPress 主题和插件
   - [ ] ⛱ 个人网站主题 [wpNyaruko-W](https://github.com/kagurazakayashi/wpNyaruko-W) + 🛒 个人代购站插件 [wpNyaruko-W-SGP](https://github.com/kagurazakayashi/wpNyaruko-W-SGP)
   - [ ] 🏎 另一款主题 [wpNyaruko-F](https://github.com/kagurazakayashi/wpNyaruko-F) + 📺 WP直播插件 [wpNyarukoLive](https://github.com/kagurazakayashi/wpNyarukoLive)
@@ -66,7 +66,7 @@
   - [ ] 📚 大燃图书阅读器资源生成工具(跨平台) [DaRanBookPackageStudio](https://github.com/kagurazakayashi/DaRanBookPackageStudio)
   - [ ] 📂 文件列表生成工具(跨平台) [yaListOfFiles](https://github.com/kagurazakayashi/yaListOfFiles)
   - [ ] 🔐 密码生成器(macOS) [YashiPasswordGenerator](https://github.com/kagurazakayashi/YashiPasswordGenerator)
-  - [ ] 🏺 抽签程序(macOS) [XiaoXiaoBallot](https://github.com/kagurazakayashi/XiaoXiaoBallot)
+  - [x] 🏺 年会抽奖程序(HTML5) [NyarukoLuckDraw](https://github.com/kagurazakayashi/NyarukoLuckDraw)
 - 🎮 游戏周边
   - [ ] 👸 公主连结自动重新挑战工具 [PCRe:Battle](https://github.com/kagurazakayashi/PCRe-Battle)
   - [ ] 👗 奇迹暖暖细胞词库生成 [nikki3words](https://github.com/kagurazakayashi/nikki3words)
