@@ -22,6 +22,10 @@
 - 📔 代码备忘录
   - [x] 📔 自用代码备忘录 [CodeNotebook](https://github.com/kagurazakayashi/CodeNotebook)
   - [ ] 📟 玩树莓派时写的一些脚本 [pi](https://github.com/kagurazakayashi/pi)
+- 👠 通用库
+  - [ ] 👜 PHP 多用途方法库 [libNyaruko_PHP](https://github.com/kagurazakayashi/libNyaruko_PHP) 
+  - [x] 👜 Golang 多用途方法库 [libNyaruko_Go](https://github.com/kagurazakayashi/libNyaruko_Go)
+  - [x] 👜 TypeScript 多用途方法库 [libNyaruko_TS](https://github.com/kagurazakayashi/libNyaruko_TS)
 - 🏰 WordPress 主题和插件
   - [ ] ⛱ 个人网站主题 [wpNyaruko-W](https://github.com/kagurazakayashi/wpNyaruko-W) + 🛒 个人代购站插件 [wpNyaruko-W-SGP](https://github.com/kagurazakayashi/wpNyaruko-W-SGP)
   - [ ] 🏎 另一款主题 [wpNyaruko-F](https://github.com/kagurazakayashi/wpNyaruko-F) + 📺 WP直播插件 [wpNyarukoLive](https://github.com/kagurazakayashi/wpNyarukoLive)
@@ -44,6 +48,8 @@
   - [ ] 👗 Dress 女装项目浏览 [GitDressViewer](https://github.com/kagurazakayashi/GitDressViewer)
   - [ ] 🐱 在网页中朝鼠标奔跑的猫 [wNeko](https://github.com/kagurazakayashi/wNeko)
   - [ ] 👍 编写安全并且可靠的程序的最佳解决方案 [nocode](https://github.com/kagurazakayashi/nocode)
+- ✈ 电报机器人
+  - [ ] 🪀 绒布球系列频道群组私有Bot [tg-rbq-bot](https://github.com/rbqgroup/tg-rbq-bot)
 - 🏠 个人网站项目
   - [ ] 🩱 个人网站开发页 [kagurazakayashi.github.com](https://github.com/kagurazakayashi/kagurazakayashi.github.com)
   - [ ] 🎡 雅诗的小世界 [yashi.moe](https://github.com/kagurazakayashi/yashi.moe)
@@ -56,17 +62,18 @@
   - [ ] 👻 定位测试客户端(iOS) [FindMyParentsiOS](https://github.com/kagurazakayashi/FindMyParentsiOS)
 - 🔧 电脑 APP
   - [x] 🔩 提供一些用于批处理命令的微型小工具(Windows) [NyarukoMiniTools](https://github.com/kagurazakayashi/NyarukoMiniTools)
+  - [x] 📢 MQTT 客户端测试工具(跨平台) [mqtt-test-server](https://github.com/tongdysoft/mqtt-test-server)
+  - [ ] 🏺 年会抽奖程序(HTML5) [NyarukoLuckDraw](https://github.com/kagurazakayashi/NyarukoLuckDraw)
   - [ ] 👁 在后台悄悄截图并加密上传到服务器(Windows) [NyarukoEye](https://github.com/kagurazakayashi/NyarukoEye)
   - [ ] 🖥 根据运行状况智能关机软件 [YashiAutoShutOff](https://github.com/kagurazakayashi/YashiAutoShutOff)
   - [ ] ⏲ 直播用计时器(跨平台) [NyarukoTools_Timer](https://github.com/kagurazakayashi/NyarukoTools_Timer)
-  - [x] 🔐 用谷歌验证器锁定屏幕(Windows) [MFAScreenLock](https://github.com/kagurazakayashi/MFAScreenLock)
+  - [ ] 🔐 用谷歌验证器锁定屏幕(Windows) [MFAScreenLock](https://github.com/kagurazakayashi/MFAScreenLock)
   - [ ] 🧭 HTTPS-DNS 代理(跨平台) [NyarukoHttpDNS](https://github.com/kagurazakayashi/NyarukoHttpDNS)
   - [ ] 📱 二维码生成(跨平台) [NyarukoTools_QRCode](https://github.com/kagurazakayashi/NyarukoTools_QRCode)
   - [ ] 📰 简易网页截图(Windows) [YashiWebpageScreenshot](https://github.com/kagurazakayashi/YashiWebpageScreenshot)
   - [ ] 📚 大燃图书阅读器资源生成工具(跨平台) [DaRanBookPackageStudio](https://github.com/kagurazakayashi/DaRanBookPackageStudio)
   - [ ] 📂 文件列表生成工具(跨平台) [yaListOfFiles](https://github.com/kagurazakayashi/yaListOfFiles)
   - [ ] 🔐 密码生成器(macOS) [YashiPasswordGenerator](https://github.com/kagurazakayashi/YashiPasswordGenerator)
-  - [x] 🏺 年会抽奖程序(HTML5) [NyarukoLuckDraw](https://github.com/kagurazakayashi/NyarukoLuckDraw)
 - 🎮 游戏周边
   - [ ] 👸 公主连结自动重新挑战工具 [PCRe:Battle](https://github.com/kagurazakayashi/PCRe-Battle)
   - [ ] 👗 奇迹暖暖细胞词库生成 [nikki3words](https://github.com/kagurazakayashi/nikki3words)
