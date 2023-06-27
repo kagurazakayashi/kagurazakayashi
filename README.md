@@ -36,13 +36,11 @@
   - [ ] 🎞 视频缩略图滑行预览 [NyarukoPreview](https://github.com/kagurazakayashi/NyarukoPreview)
   - [ ] 📊 简易网页柱状图 [NyarukoChart](https://github.com/kagurazakayashi/NyarukoChart)
 - 🎫 基础程序
-  - [x] 🔑 PHP 用户登录 [NyarukoLogin](https://github.com/kagurazakayashi/NyarukoLogin) + 👯‍♀️ 社交插件 [NyarukoSNS](https://github.com/kagurazakayashi/NyarukoSNS)
-  - [x] 📋 做 TS 时自己共用的代码 [YQ](https://github.com/kagurazakayashi/yq)
-  - [ ] 😃 GO 简易 MQTT 聊天 [NyarukoMQTTChat](https://github.com/kagurazakayashi/NyarukoMQTTChat)
-  - [ ] 📁 简易 PHP 文件浏览器 [NyarukoFile](https://github.com/kagurazakayashi/NyarukoFile) + 🗃️ 上传共享 [NyarukoDisk](https://github.com/kagurazakayashi/NyarukoDisk)
+  - [ ] 🔑 PHP 用户登录 [NyarukoLogin](https://github.com/kagurazakayashi/NyarukoLogin) + 👯‍♀️ 社交插件 [NyarukoSNS](https://github.com/kagurazakayashi/NyarukoSNS)
+  - [x] 📁 文件发布系统 [NyarukoDownloadCenter](https://github.com/kagurazakayashi/NyarukoDownloadCenter)
 - 🦋 Flutter 插件
   - [ ] 📡 MXCHIP WiFi 硬件模组网络配置插件(Android/iOS) [EasylinkFlutter](https://github.com/kagurazakayashi/EasylinkFlutter)
-  - [x] 💬 基于 iOS 和 Android 原生库的 WebSocket 插件 [yaWebSocket](https://github.com/kagurazakayashi/yaWebSocket)
+  - [ ] 💬 基于 iOS 和 Android 原生库的 WebSocket 插件 [yaWebSocket](https://github.com/kagurazakayashi/yaWebSocket)
 - 🎀 有趣的小东西
   - [ ] 📜 紫罗兰永恒花园文字转换 [EvergardenConverter](https://github.com/kagurazakayashi/EvergardenConverter)
   - [ ] 👗 Dress 女装项目浏览 [GitDressViewer](https://github.com/kagurazakayashi/GitDressViewer)
@@ -50,10 +48,11 @@
   - [ ] 👍 编写安全并且可靠的程序的最佳解决方案 [nocode](https://github.com/kagurazakayashi/nocode)
 - ✈ 电报机器人
   - [ ] 🪀 绒布球系列频道群组私有Bot [tg-rbq-bot](https://github.com/rbqgroup/tg-rbq-bot)
+  - [x] 🪀 绒布球频道更新姬 [rbq_anonymous_bot](https://github.com/rbqgroup/rbq_anonymous_bot)
 - 🏠 个人网站项目
   - [ ] 🩱 个人网站开发页 [kagurazakayashi.github.com](https://github.com/kagurazakayashi/kagurazakayashi.github.com)
   - [ ] 🎡 雅诗的小世界 [yashi.moe](https://github.com/kagurazakayashi/yashi.moe)
-  - [x] 👒 新·雅诗的小世界 [KaguraMiyabi​ Project](https://github.com/KaguraMiyabi)
+  - [ ] 👒 新·雅诗的小世界 [KaguraMiyabi​ Project](https://github.com/KaguraMiyabi)
   - [ ] ⛩ 概念版个人站组件 [NyarukoZone.js](https://github.com/kagurazakayashi/NyarukoZone.js)
 - 📱 手机 APP
   - [ ] 🌼 云颜文字(iOS) [CloudEmoticon1iOS](https://github.com/cloud-emoticon/CloudEmoticon1iOS) + 🌼 云颜文字2(iOS) [CloudEmoticon2iOS](https://github.com/cloud-emoticon/CloudEmoticon2iOS)
@@ -63,7 +62,8 @@
 - 🔧 电脑 APP
   - [x] 🔩 提供一些用于批处理命令的微型小工具(Windows) [NyarukoMiniTools](https://github.com/kagurazakayashi/NyarukoMiniTools)
   - [x] 📢 MQTT 客户端测试工具(跨平台) [mqtt-test-server](https://github.com/tongdysoft/mqtt-test-server)
-  - [ ] 🏺 年会抽奖程序(HTML5) [NyarukoLuckDraw](https://github.com/kagurazakayashi/NyarukoLuckDraw)
+  - [ ] 😃 GO 简易 MQTT 聊天(上面这个的基础) [NyarukoMQTTChat](https://github.com/kagurazakayashi/NyarukoMQTTChat)
+  - [x] 🏺 年会抽奖程序(HTML5) [NyarukoLuckDraw](https://github.com/kagurazakayashi/NyarukoLuckDraw)
   - [ ] 👁 在后台悄悄截图并加密上传到服务器(Windows) [NyarukoEye](https://github.com/kagurazakayashi/NyarukoEye)
   - [ ] 🖥 根据运行状况智能关机软件 [YashiAutoShutOff](https://github.com/kagurazakayashi/YashiAutoShutOff)
   - [ ] ⏲ 直播用计时器(跨平台) [NyarukoTools_Timer](https://github.com/kagurazakayashi/NyarukoTools_Timer)
